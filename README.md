@@ -8,7 +8,7 @@
   ```code
   sudo apt install libsdl2-dev
   ```
-- You need nim and numble intsalled also
+- You need nim and numble intstalled also
 
 ## Running with nimble
 
